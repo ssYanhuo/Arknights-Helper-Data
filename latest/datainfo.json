@@ -48,4 +48,11 @@
         "desc":"关卡映射信息，用于掉落概率查询",
         "source":"Penguin Statistics"
     },
+    {
+        "name":"/datainfo.json",
+        "date":"2020-1-1",
+        "dateraw":20200101,
+        "desc":"数据文件索引",
+        "source":"ssYanhuo"
+    }
 ]
