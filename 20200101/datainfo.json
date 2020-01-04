@@ -50,8 +50,8 @@
     },
     {
         "name":"/datainfo.json",
-        "date":"2020-1-4",
-        "dateraw":20200104,
+        "date":"2020-1-1",
+        "dateraw":20200101,
         "desc":"数据文件索引",
         "source":"ssYanhuo"
     }
