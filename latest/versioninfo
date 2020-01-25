@@ -1,5 +1,5 @@
-versionCode 18
-versionName β-2.1.6-NewYear
+versionCode 19
+versionName β-2.1.6.1-NewYear
 releaseNote [Info]祝各位刀客塔春节快乐！
 [Fix]修复了快速设置面板磁贴有时不可用的问题(感谢@萝莉控の胜利)
 [Fix]修复了截图识别非JPG图像时闪退的问题
@@ -7,3 +7,4 @@ releaseNote [Info]祝各位刀客塔春节快乐！
 [New]添加更多辅助功能
 [New]同步最新游戏数据、新增干员、标签和材料
 [Mod]优化竖屏动画显示效果
+[Mod]优化新年主题显示效果
