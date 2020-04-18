@@ -438,7 +438,8 @@
             "en": "Angelina"
         },
         "麦哲伦": {
-            "jp": "マゼラン",
+            "hidden": "all",
+            "jp": "",
             "en": "Magallan"
         },
         "阿": {
@@ -482,7 +483,8 @@
             "en": "Blaze"
         },
         "赫拉格": {
-            "jp": "ヘラグ",
+            "hidden": "all",
+            "jp": "",
             "en": "Hellagur"
         },
         "暴行": {
