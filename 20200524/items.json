@@ -1374,9 +1374,9 @@
     "itemId": "et_ObsidianPass",
     "name": "黑曜石节门票",
     "name_i18n": {
-      "ko": "옵시디언 페스티벌 티켓",
-      "ja": "フェスチケット",
-      "en": "Obsidian Festival Ticket",
+      "ko": "黑曜石节门票",
+      "ja": "黑曜石节门票",
+      "en": "黑曜石节门票",
       "zh": "黑曜石节门票"
     },
     "sortId": -10000,
@@ -1406,9 +1406,9 @@
     "itemId": "token_Obsidian",
     "name": "汐斯塔的黑曜石",
     "name_i18n": {
-      "ko": "시에스타의 흑요석",
-      "ja": "シエスタの黒曜石",
-      "en": "Siesta Obsidian",
+      "ko": "汐斯塔的黑曜石",
+      "ja": "汐斯塔的黑曜石",
+      "en": "汐斯塔的黑曜石",
       "zh": "汐斯塔的黑曜石"
     },
     "sortId": -10000,
@@ -1438,9 +1438,9 @@
     "itemId": "token_ObsidianCoin",
     "name": "黑曜石节抽奖代币",
     "name_i18n": {
-      "ko": "옵시디언 페스티벌 추첨 코인",
-      "ja": "ガチャコイン",
-      "en": "Obsidian Festival Token",
+      "ko": "黑曜石节抽奖代币",
+      "ja": "黑曜石节抽奖代币",
+      "en": "黑曜石节抽奖代币",
       "zh": "黑曜石节抽奖代币"
     },
     "sortId": -10000,
@@ -1566,9 +1566,9 @@
     "itemId": "31013",
     "name": "凝胶",
     "name_i18n": {
-      "ko": "젤",
-      "ja": "人工ゲル",
-      "en": "Coagulating Gel",
+      "ko": "凝胶",
+      "ja": "凝胶",
+      "en": "凝胶",
       "zh": "凝胶"
     },
     "sortId": 100037,
@@ -1598,9 +1598,9 @@
     "itemId": "31014",
     "name": "聚合凝胶",
     "name_i18n": {
-      "ko": "중합젤",
-      "ja": "融合ゲル",
-      "en": "Polymerized Gel",
+      "ko": "聚合凝胶",
+      "ja": "聚合凝胶",
+      "en": "聚合凝胶",
       "zh": "聚合凝胶"
     },
     "sortId": 100036,
@@ -1630,9 +1630,9 @@
     "itemId": "31023",
     "name": "炽合金",
     "name_i18n": {
-      "ko": "열합금",
-      "ja": "熾合金",
-      "en": "Incandescent Alloy",
+      "ko": "炽合金",
+      "ja": "炽合金",
+      "en": "炽合金",
       "zh": "炽合金"
     },
     "sortId": 100039,
@@ -1662,9 +1662,9 @@
     "itemId": "31024",
     "name": "炽合金块",
     "name_i18n": {
-      "ko": "열합금 팩",
-      "ja": "上級熾合金",
-      "en": "Incandescent Alloy Block",
+      "ko": "炽合金块",
+      "ja": "炽合金块",
+      "en": "炽合金块",
       "zh": "炽合金块"
     },
     "sortId": 100038,
@@ -1792,7 +1792,7 @@
     "name_i18n": {
       "ko": "자격증명서",
       "ja": "一般資格証",
-      "en": "Commendation Certificate",
+      "en": "Qualification Certificate",
       "zh": "资质凭证"
     },
     "sortId": 10007,

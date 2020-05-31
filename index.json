@@ -1,7 +1,25 @@
 [
     {
-        "date":"2020-5-10",
+        "date":"2020-5-31",
         "dir":"/latest",
+        "versionMin":18,
+        "versionMax":-1
+    },
+    {
+        "date":"2020-5-24",
+        "dir":"/20200524",
+        "versionMin":18,
+        "versionMax":-1
+    },
+    {
+        "date":"2020-5-16",
+        "dir":"/20200516",
+        "versionMin":18,
+        "versionMax":-1
+    },
+    {
+        "date":"2020-5-10",
+        "dir":"/20200510",
         "versionMin":18,
         "versionMax":-1
     },
@@ -12,8 +30,8 @@
         "versionMax":-1
     },
     {
-        "date":"2020-4-19",
-        "dir":"/20200419",
+        "date":"2020-4-18",
+        "dir":"/20200418",
         "versionMin":18,
         "versionMax":-1
     },
