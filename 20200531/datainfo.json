@@ -18,8 +18,8 @@
     {
         "name":"/charMaterials.json",
         "nameFriendly":"charMaterials.json",
-        "date":"2020-6-10",
-        "dateraw":20200610,
+        "date":"2020-4-19",
+        "dateraw":20200419,
         "desc":"干员材料信息，用于升级材料查询",
         "source":"Graue Neko & ssYanhuo"
     },
@@ -82,8 +82,8 @@
     {
         "name":"/datainfo.json",
         "nameFriendly":"datainfo.json",
-        "date":"2020-6-10",
-        "dateraw":20200610,
+        "date":"2020-5-31",
+        "dateraw":20200531,
         "desc":"数据文件索引",
         "source":"ssYanhuo"
     }
