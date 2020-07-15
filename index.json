@@ -1,7 +1,19 @@
 [
     {
+        "date":"2020-7-9",
+        "dir":"/20200709",
+        "versionMin":18,
+        "versionMax":-1
+    },
+    {
+        "date":"2020-6-19",
+        "dir":"/20200619",
+        "versionMin":18,
+        "versionMax":-1
+    },
+    {
         "date":"2020-6-10",
-        "dir":"/latest",
+        "dir":"/20200610",
         "versionMin":18,
         "versionMax":-1
     },
