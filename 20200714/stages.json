@@ -6591,20 +6591,16 @@
     "extraDrop": [],
     "existence": {
       "US": {
-        "exist": true,
-        "openTime": 1593536400000
+        "exist": true
       },
       "JP": {
-        "exist": true,
-        "openTime": 1593500400000
+        "exist": true
       },
       "CN": {
-        "exist": true,
-        "openTime": 1577174400000
+        "exist": true
       },
       "KR": {
-        "exist": true,
-        "openTime": 1593500400000
+        "exist": true
       }
     }
   },
@@ -6994,16 +6990,16 @@
     "extraDrop": [],
     "existence": {
       "US": {
-        "exist": false
+        "exist": true
       },
       "JP": {
-        "exist": false
+        "exist": true
       },
       "CN": {
         "exist": true
       },
       "KR": {
-        "exist": false
+        "exist": true
       }
     }
   },
@@ -7599,16 +7595,16 @@
     "extraDrop": [],
     "existence": {
       "US": {
-        "exist": false
+        "exist": true
       },
       "JP": {
-        "exist": false
+        "exist": true
       },
       "CN": {
         "exist": true
       },
       "KR": {
-        "exist": false
+        "exist": true
       }
     }
   },
@@ -8646,16 +8642,16 @@
     "extraDrop": [],
     "existence": {
       "US": {
-        "exist": false
+        "exist": true
       },
       "JP": {
-        "exist": false
+        "exist": true
       },
       "CN": {
         "exist": true
       },
       "KR": {
-        "exist": false
+        "exist": true
       }
     }
   },
@@ -9099,16 +9095,16 @@
     "extraDrop": [],
     "existence": {
       "US": {
-        "exist": false
+        "exist": true
       },
       "JP": {
-        "exist": false
+        "exist": true
       },
       "CN": {
         "exist": true
       },
       "KR": {
-        "exist": false
+        "exist": true
       }
     }
   },
