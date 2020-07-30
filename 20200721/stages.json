@@ -6783,14 +6783,10 @@
     ],
     "existence": {
       "US": {
-        "exist": true,
-        "openTime": 1596042000000,
-        "closeTime": 1597230000000
+        "exist": false
       },
       "JP": {
-        "exist": true,
-        "openTime": 1596006000000,
-        "closeTime": 1597172400000
+        "exist": false
       },
       "CN": {
         "exist": true,
@@ -6798,9 +6794,7 @@
         "closeTime": 1579118399000
       },
       "KR": {
-        "exist": true,
-        "openTime": 1596006000000,
-        "closeTime": 1597172400000
+        "exist": false
       }
     },
     "minClearTime": 180000
@@ -6832,14 +6826,10 @@
     ],
     "existence": {
       "US": {
-        "exist": true,
-        "openTime": 1596042000000,
-        "closeTime": 1597230000000
+        "exist": false
       },
       "JP": {
-        "exist": true,
-        "openTime": 1596006000000,
-        "closeTime": 1597172400000
+        "exist": false
       },
       "CN": {
         "exist": true,
@@ -6847,9 +6837,7 @@
         "closeTime": 1579118399000
       },
       "KR": {
-        "exist": true,
-        "openTime": 1596006000000,
-        "closeTime": 1597172400000
+        "exist": false
       }
     },
     "minClearTime": 199000
@@ -6881,14 +6869,10 @@
     ],
     "existence": {
       "US": {
-        "exist": true,
-        "openTime": 1596042000000,
-        "closeTime": 1597230000000
+        "exist": false
       },
       "JP": {
-        "exist": true,
-        "openTime": 1596006000000,
-        "closeTime": 1597172400000
+        "exist": false
       },
       "CN": {
         "exist": true,
@@ -6896,9 +6880,7 @@
         "closeTime": 1579118399000
       },
       "KR": {
-        "exist": true,
-        "openTime": 1596006000000,
-        "closeTime": 1597172400000
+        "exist": false
       }
     },
     "minClearTime": 171500
@@ -6930,14 +6912,10 @@
     ],
     "existence": {
       "US": {
-        "exist": true,
-        "openTime": 1596042000000,
-        "closeTime": 1597230000000
+        "exist": false
       },
       "JP": {
-        "exist": true,
-        "openTime": 1596006000000,
-        "closeTime": 1597172400000
+        "exist": false
       },
       "CN": {
         "exist": true,
@@ -6945,9 +6923,7 @@
         "closeTime": 1579118399000
       },
       "KR": {
-        "exist": true,
-        "openTime": 1596006000000,
-        "closeTime": 1597172400000
+        "exist": false
       }
     },
     "minClearTime": 177000
@@ -6980,14 +6956,10 @@
     ],
     "existence": {
       "US": {
-        "exist": true,
-        "openTime": 1596042000000,
-        "closeTime": 1597230000000
+        "exist": false
       },
       "JP": {
-        "exist": true,
-        "openTime": 1596006000000,
-        "closeTime": 1597172400000
+        "exist": false
       },
       "CN": {
         "exist": true,
@@ -6995,9 +6967,7 @@
         "closeTime": 1579118399000
       },
       "KR": {
-        "exist": true,
-        "openTime": 1596006000000,
-        "closeTime": 1597172400000
+        "exist": false
       }
     },
     "minClearTime": 180000
@@ -7030,14 +7000,10 @@
     ],
     "existence": {
       "US": {
-        "exist": true,
-        "openTime": 1596042000000,
-        "closeTime": 1597230000000
+        "exist": false
       },
       "JP": {
-        "exist": true,
-        "openTime": 1596006000000,
-        "closeTime": 1597172400000
+        "exist": false
       },
       "CN": {
         "exist": true,
@@ -7045,9 +7011,7 @@
         "closeTime": 1579118399000
       },
       "KR": {
-        "exist": true,
-        "openTime": 1596006000000,
-        "closeTime": 1597172400000
+        "exist": false
       }
     },
     "minClearTime": 193000
@@ -7080,14 +7044,10 @@
     ],
     "existence": {
       "US": {
-        "exist": true,
-        "openTime": 1596042000000,
-        "closeTime": 1597230000000
+        "exist": false
       },
       "JP": {
-        "exist": true,
-        "openTime": 1596006000000,
-        "closeTime": 1597172400000
+        "exist": false
       },
       "CN": {
         "exist": true,
@@ -7095,9 +7055,7 @@
         "closeTime": 1579118399000
       },
       "KR": {
-        "exist": true,
-        "openTime": 1596006000000,
-        "closeTime": 1597172400000
+        "exist": false
       }
     },
     "minClearTime": 195000
@@ -7133,14 +7091,10 @@
     ],
     "existence": {
       "US": {
-        "exist": true,
-        "openTime": 1596042000000,
-        "closeTime": 1597230000000
+        "exist": false
       },
       "JP": {
-        "exist": true,
-        "openTime": 1596006000000,
-        "closeTime": 1597172400000
+        "exist": false
       },
       "CN": {
         "exist": true,
@@ -7148,9 +7102,7 @@
         "closeTime": 1579118399000
       },
       "KR": {
-        "exist": true,
-        "openTime": 1596006000000,
-        "closeTime": 1597172400000
+        "exist": false
       }
     },
     "minClearTime": 136000

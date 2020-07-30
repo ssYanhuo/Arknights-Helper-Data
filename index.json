@@ -6,6 +6,12 @@
         "versionMax":-1
     },
     {
+        "date":"2020-7-21",
+        "dir":"/20200721",
+        "versionMin":18,
+        "versionMax":-1
+    },
+    {
         "date":"2020-7-17",
         "dir":"/20200717",
         "versionMin":18,
