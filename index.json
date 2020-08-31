@@ -1,7 +1,13 @@
 [
     {
-        "date":"2020-8-21",
+        "date":"2020-8-31",
         "dir":"/latest",
+        "versionMin":18,
+        "versionMax":-1
+    },
+    {
+        "date":"2020-8-21",
+        "dir":"/20200821",
         "versionMin":18,
         "versionMax":-1
     },
