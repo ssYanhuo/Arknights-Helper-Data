@@ -1,7 +1,13 @@
 [
     {
-        "date":"2021-01-21",
+        "date":"2021-02-15",
         "dir":"/latest",
+        "versionMin":18,
+        "versionMax":-1
+    },   
+    {
+        "date":"2021-01-21",
+        "dir":"/20210121",
         "versionMin":18,
         "versionMax":-1
     },   
