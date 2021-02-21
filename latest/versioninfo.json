@@ -1,5 +1,5 @@
 {
-    "versionCode": 40,
+    "versionCode": 50,
     "versionName": "RC-9.3",
     "releaseNote": "[Info]更新到该版本建议清除软件数据后再使用\n[Fix]修复部分机型调节悬浮按钮透明度时崩溃的问题"
 }
